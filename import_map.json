@@ -1,0 +1,14 @@
+{
+  "imports": {
+    "./": "./",
+    "/": "./",
+    "reflect-metadata": "https://cdn.esm.sh/reflect-metadata?deno",
+    "inversify": "https://cdn.esm.sh/inversify?deno",
+    "is_js": "https://cdn.esm.sh/is_js?deno",
+    "lodash": "https://deno.land/x/lodash@4.17.15-es/lodash.js",
+    "mysql": "https://cdn.esm.sh/mysql2/promise?deno",
+    "oak": "https://deno.land/x/oak@v10.1.0/mod.ts",
+    "redis": "https://cdn.esm.sh/ioredis?deno",
+    "joi": "https://cdn.esm.sh/joi?deno"
+  }
+}
