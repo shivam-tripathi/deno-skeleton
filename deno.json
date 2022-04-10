@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "experimentalDecorators": true,
+    "emitDecoratorMetadata": true
+  },
+  "tasks": {
+    "dev": "deno run --import-map=import_map.json --config=deno.json --allow-env=REFLECT_METADATA_USE_MAP_POLYFILL,APP_ENV,APP_TYPE,APP_SERVICE,APP_SERVER_PORT --allow-net=127.0.0.1:3000 --watch main.ts"
+  },
+  "fmt": {
+    "options": {
+      "singleQuote": false
+    }
+  }
+}
