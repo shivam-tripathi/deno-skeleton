@@ -1,1 +1,1 @@
-export interface SessionUser { }
+export interface SessionUser {}

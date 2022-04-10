@@ -1,1 +1,1 @@
-export type Env = 'prod' | 'dev' | 'local';
+export type Env = "prod" | "dev" | "local";
